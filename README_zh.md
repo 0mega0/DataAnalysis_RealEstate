@@ -1,7 +1,7 @@
 # DataAnalysis_RealEstate
  my first try of data analysis. Will contain various version.
 
-##:large_blue_circle: 国际化
+## :large_blue_circle: 国际化
 [English](README_en.md) | 中文
 
 ## 这是个什么项目
