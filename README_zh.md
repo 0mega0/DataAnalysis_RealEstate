@@ -9,8 +9,8 @@
 本项目主要为房地产部分数据的分析和可视化
 
 ## 用到的外部库
-pymongo
-matplotlib.pyplot
+pymongo  
+matplotlib.pyplot  
 
 ## :copyright: 版权信息
 
